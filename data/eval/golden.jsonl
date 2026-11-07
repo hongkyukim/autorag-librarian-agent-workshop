@@ -1,0 +1,8 @@
+{"question": "What is the AWS discount tier in the cloud contract?", "expect": ["28%"]}
+{"question": "What is the uptime guarantee?", "expect": ["99.95%"]}
+{"question": "What budget did the final proposal settle on?", "expect": ["$120,000"]}
+{"question": "When is the renewal deadline for invoice INV-2026-0042?", "expect": ["December 15"]}
+{"question": "Where must customer data be stored?", "expect": ["Seoul"]}
+{"question": "인증서를 갱신하는 절차는?", "expect": ["11월", "November"]}
+{"question": "What is planned for the quarterly offsite?", "expect": ["Busan"]}
+{"question": "What was on the 2024 roadmap?", "forbid_source": "archive/"}

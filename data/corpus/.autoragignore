@@ -1,0 +1,2 @@
+# Excluded from indexing (mirrors `autorag init --exclude`)
+archive/

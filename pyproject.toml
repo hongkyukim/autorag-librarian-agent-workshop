@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68,<82"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "autorag-librarian-agent-workshop"
+version = "0.1.0"
+description = "Hands-on workshop: the architecture of AutoRAG Agent (personal librarian agent) as offline, testable labs."
+requires-python = ">=3.11"
+license = {text = "MIT"}
+dependencies = []
+
+[project.scripts]
+autorag-lab = "autorag_lab.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

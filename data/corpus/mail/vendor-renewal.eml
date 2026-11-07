@@ -1,0 +1,12 @@
+From: billing@vectorsoft.example
+To: it@acme.example
+Subject: License renewal INV-2026-0042
+Date: Mon, 12 Oct 2026 09:00:00 -0700
+Message-ID: <inv-2026-0042@vectorsoft.example>
+Content-Type: text/plain; charset=utf-8
+
+Hello, invoice INV-2026-0042 covers the annual VectorSoft license.
+
+The renewal deadline is December 15, 2026; after that date the seats lapse.
+
+Regards, VectorSoft Billing
